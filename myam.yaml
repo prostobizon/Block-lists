@@ -52,8 +52,7 @@ payload:
 - DOMAIN-SUFFIX,sb-cd.com
 - DOMAIN-SUFFIX,kinozal.me
 - DOMAIN-SUFFIX,vkusnyblog.com
-- DOMAIN-SUFFIX,bunkr.cr
-- DOMAIN-SUFFIX,bunkr.si
+- DOMAIN-KEYWORD,bunkr
 - DOMAIN-SUFFIX,erome.com
 - DOMAIN-SUFFIX,fileditchfiles.st
 - DOMAIN-SUFFIX,joyreactor.cc
