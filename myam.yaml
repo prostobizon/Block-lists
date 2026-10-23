@@ -1,5 +1,7 @@
 payload:
-- DOMAIN-KEYWORD,fandom.com
+- DOMAIN-SUFFIX,fileditchfiles.st
+- DOMAIN-SUFFIX,fileditchvids.st
+- DOMAIN-SUFFIX,fandom.com
 - DOMAIN-KEYWORD,razer
 - DOMAIN-SUFFIX,virustotal.com
 - DOMAIN-SUFFIX,picstate.com
@@ -67,5 +69,4 @@ payload:
 - DOMAIN-SUFFIX,vkusnyblog.com
 - DOMAIN-KEYWORD,bunkr
 - DOMAIN-SUFFIX,erome.com
-- DOMAIN-SUFFIX,fileditchfiles.st
 - DOMAIN-SUFFIX,titsintops.com
